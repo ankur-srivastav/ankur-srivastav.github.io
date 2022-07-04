@@ -4,8 +4,8 @@
   url: "/about.html"
 - title: "Archives"
   url: "/archives.html"
-- title: "The Intentional Organization"
-  url: "https://intentionalorganization.com"
+- title: "My Publications"
+  url: "/myPublications.html"
 - title: Subscribe
   url: /subscribe/
 - title: Search
