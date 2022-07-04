@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "My first blog post"
+title:  "The see-saw between June and September Rainfall"
 date:   2022-07-04 11:09:29 +0530
 tags: ENSO ISMR June Septemeber rainfall
 ---

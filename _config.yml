@@ -1,55 +1,87 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you: 
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-
-title: Your awesome title
-email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
-
-# Build settings
-theme: minima
+permalink: /:year/:i_month/:i_day/:title.html
+exclude: [Rakefile, Gemfile, Gemfile.lock, README.markdown, Capfile, bin, s3_website.yml, tmp]
+paginate: 5
+paginate_path: /page:num/
 plugins:
+  - jekyll-paginate
+  - jekyll-include-cache
+  - jekyll-seo-tag
+  - jekyll-archives
   - jekyll-feed
+theme: jekyll-theme-so-simple
+masthead_title: Home
+title: "Ankur Srivastava"
+logo: "https://pbs.twimg.com/profile_images/1538407374599245825/ih6ZOMXG_400x400.jpg"
+description: "Scientist"
+masthead_bio: "I am a scientist at the <a href=\"https://tropmet.res.in\" target=\"_blank\">Indian Institute of Tropical Meteorology</a> , an oceanographer, meteorologist and an engineer.
+  Ph.D. from <a href=\"https://iitb.ac.in\" target=\"_blank\">Indian Institute of Technology, Bombay</a> in <a href=\"https://www.climate.iitb.ac.in\" target=\"_blank\">Climate Studies</a>. My research interests include Monsoons, 
+  their different modes of variability, Monsoon teleconnections, Predictability, Coupled ocean-atmosphere modelling and
+  Seasonal Prediction. I have worked on the the impact of rivers on monsoon during my Ph.D. I am also interested in High
+  Performance Computing and Big Data."
+twitter:
+  username: roidrage
 
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+category_archive_path: "/categories/#"
+tag_archive_path: "/tags/#"
+
+search: true
+
+author:
+  name: "Ankur Srivastava"
+  location: "Pune, India"
+  picture: https://pbs.twimg.com/profile_images/1538407374599245825/ih6ZOMXG_400x400.jpg
+  bio: "Scientist"
+  twitter: ankur__s
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/ankur__s"
+    - label: "Github"
+      icon: "fab fa-fw fa-github-square"
+      url: "https://twitter.com/ankur__s"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/ankursr/"
+    - label: "Contact Me"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "/contact/"
+
+footer_links:
+  - title: "Twitter"
+    icon: "fab fa-fw fa-twitter-square"
+    url: "https://twitter.com/ankur__s"
+  - title: "Contact Me"
+    icon: "fas fa-fw fa-envelope-square"
+    url: "/contact/"
+  - label: "Github"
+    icon: "fab fa-fw fa-github-square"
+    url: "https://twitter.com/ankur__s"
+  - label: "LinkedIn"
+    icon: "fab fa-fw fa-linkedin"
+    url: "https://www.linkedin.com/in/ankursr/"
+    
+url: "https://www.paperplanes.de"
+feed:
+  path: feed.xml
+
+defaults:
+  # _posts
+  defaults:
+  # Post defaults
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: post
+      comments: false
+      share: false
+
+locale: en-US
+
+copyright: 2022 Ankur Srivastava
+
+google_fonts:
+  - name: "Source Sans Pro"
+    weights: "400,400i,700,700i"
+  - name: "Lora"
+    weights: "400,400i,700,700i"

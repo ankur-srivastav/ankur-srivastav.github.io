@@ -1,0 +1,12 @@
+- title: "Home"
+  url: "/"
+- title: "About Me"
+  url: "/about.html"
+- title: "Archives"
+  url: "/archives.html"
+- title: "The Intentional Organization"
+  url: "https://intentionalorganization.com"
+- title: Subscribe
+  url: /subscribe/
+- title: Search
+  url: /search/
