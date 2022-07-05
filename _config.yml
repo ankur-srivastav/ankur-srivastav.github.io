@@ -80,7 +80,7 @@ defaults:
 
 locale: en-US
 
-copyright: 2022 Ankur Srivastava
+copyright: © 2022 Ankur Srivastava
 
 google_fonts:
   - name: "Source Sans Pro"
