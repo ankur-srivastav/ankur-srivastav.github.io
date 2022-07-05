@@ -1,11 +1,11 @@
 - title: "Home"
   url: "/"
 - title: "About Me"
-  url: "/about.html"
+  url: "/about/"
 - title: "Archives"
   url: "/archives.html"
 - title: "My Publications"
-  url: "/myPublications.html"
+  url: "/publications/"
 - title: Subscribe
   url: /subscribe/
 - title: Search
