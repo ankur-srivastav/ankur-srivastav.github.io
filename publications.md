@@ -3,7 +3,7 @@ layout: page
 title: Ankur's publications
 ---
 
-23. Das, R. S., Rao, S. A., Prasanth, Pillai, A., Srivastava, Ankur, Pradhan, M., Dandi, Ramu, A. (2022). Why coupled general circulation models overestimate the ENSO and Indian Summer Monsoon Rainfall (ISMR) relationship? Climate Dynamics 2022, 1, 1–17. https://doi.org/10.1007/S00382-022-06253-W
+23. Das, R. S., Rao, S. A., Prasanth, Pillai, A., Srivastava, Ankur, Pradhan, M., Dandi, Ramu, A. (2022). Why coupled general circulation models overestimate the ENSO and Indian Summer Monsoon Rainfall (ISMR) relationship? Climate Dynamics 2022, 1, 1–17. [https://doi.org/10.1007/S00382-022-06253-W]
 
 22. Ineson, S., Martin, G., Sexton, D., & Srivastava, Ankur (2022). Report progress on sensitivity of ENSO- and IOD-monsoon teleconnections to model physics and resolution in MetUM and CFS configurations. Met Office.
 
@@ -19,7 +19,7 @@ title: Ankur's publications
 
 16. Pradhan M., Rao Suryachandra A., Srivastava Ankur, Factors responsible for consecutive deficit Indian monsoons during 2014 and 2015, Theoretical and Applied Climatology, 143, February 2021, DOI:10.1007/s00704-020-03486-9, 1473-1486
 
-15. Srivastava, A., Rao, S.A., Pradhan, M., Pillai, P.A. and Prasad, V.S., 2020. Gain of one-month lead time in seasonal prediction of Indian summer monsoon prediction: comparison of initialization strategies. Theoretical and Applied Climatology, pp.1-14, https://doi.org/10.1007/s00704-020-03470-3
+15. Srivastava, A., Rao, S.A., Pradhan, M., Pillai, P.A. and Prasad, V.S., 2020. Gain of one-month lead time in seasonal prediction of Indian summer monsoon prediction: comparison of initialization strategies. Theoretical and Applied Climatology, pp.1-14, [https://doi.org/10.1007/s00704-020-03470-3]
 
 14. Krishna R.P.M., Rao S.A., Srivastava A., Kottu H.P., Pradhan M.,Pillai P., Dandi R.A., Sabeerali C.T., Impact of convective parameterization on the seasonal prediction skill of Indian summer monsoon, Climate Dynamics, Online, 2019, DOI:10.1007/s00382-019-04921-y, 1-17, Published online
 
@@ -39,7 +39,7 @@ title: Ankur's publications
 
 6. Pradhan M., Suryachandra A. Rao, Srivastava Ankur, Dakate A., Salunke K., Shameera K.S., Prediction of Indian Summer-Monsoon Onset Variability: A Season in Advanc, Scientific Reports, 7:14229, 2017, DOI:10.1038/s41598-017-12594-y, 1-14
 
-5. Ramu, D.A., C.T. Sabeerali, Rajib Chattopadhyay, D. Nagarjuna Rao, Gibies George, A.R. Dhakate, K. Salunke, Ankur Srivastava, and Suryachandra A Rao. 2016. “Indian Summer Monsoon Rainfall Simulation and Prediction Skill in the CFSv2 Coupled Model: Impact of Atmospheric Horizontal Resolution.” Journal of Geophysical Research: Atmospheres. doi:10.1002/2015JD024629. http://doi.wiley.com/10.1002/2015JD024629. (IF: 3.426)
+5. Ramu, D.A., C.T. Sabeerali, Rajib Chattopadhyay, D. Nagarjuna Rao, Gibies George, A.R. Dhakate, K. Salunke, Ankur Srivastava, and Suryachandra A Rao. 2016. “Indian Summer Monsoon Rainfall Simulation and Prediction Skill in the CFSv2 Coupled Model: Impact of Atmospheric Horizontal Resolution.” Journal of Geophysical Research: Atmospheres. doi:10.1002/2015JD024629. [http://doi.wiley.com/10.1002/2015JD024629]. (IF: 3.426)
 
 4. George, Gibies, D. Nagarjuna Rao, C. T. Sabeerali, Ankur Srivastava, and Suryachandra A. Rao. 2015. “Indian Summer Monsoon Prediction and Simulation in CFSv2 Coupled Model.” Atmospheric Science Letters (November 2015): 57–64. doi:10.1002/asl.599. (IF: 1.521)
 
@@ -47,4 +47,4 @@ title: Ankur's publications
 
 2. Suryachandra A. Rao, Ankur Srivastava, M. Pradhan, G. George, R. Chattopadhyay, A. Dhakate and K. Salunke (2016). Performance of the experimental seasonal forecasts for the monsoon 2015 by IITM-CFS. Keynote Talks, Annual Monsoon Workshops 2015 and National Symposium on understanding and forecasting the monsoon extremes, organized by Indian Meteorological Society, Pune Chapter. Indian Institute of Tropical Meteorology, Pune.
 
-1. Srivastava, Ankur, Pradhan, M., George, G., Dhakate, A., Salunke, K., & Rao, S. A. (2015). A Research Report on the 2015 Southwest Monsoon. (M. Mujumdar, C. Gnanaseelan, & M. Rajeevan, Eds.). Indian Institute of Tropical Meteorology. Retrieved from http://www.tropmet.res.in/~lip/Publication/RR-pdf/RR-185.pdf
+1. Srivastava, Ankur, Pradhan, M., George, G., Dhakate, A., Salunke, K., & Rao, S. A. (2015). A Research Report on the 2015 Southwest Monsoon. (M. Mujumdar, C. Gnanaseelan, & M. Rajeevan, Eds.). Indian Institute of Tropical Meteorology. Retrieved from [http://www.tropmet.res.in/~lip/Publication/RR-pdf/RR-185.pdf]
