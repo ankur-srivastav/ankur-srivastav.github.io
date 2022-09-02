@@ -4,14 +4,14 @@ title: Ankur's publications
 permalink: /publications/
 ---
 
-Lead author publications:
+## Lead author publications:
 1.	Srivastava, Ankur, Anguluri, S. R., & Ghosh, S. Impact of riverine freshwater on Indian Summer Monsoon: Coupling a runoff routing model to a global seasonal forecast model. Frontiers in Climate, https://www.frontiersin.org/articles/10.3389/fclim.2022.902586/full.
 2.	Srivastava, A., Rao, S.A., Pradhan, M., Pillai, P.A. and Prasad, V.S., 2020. Gain of one-month lead time in seasonal prediction of Indian summer monsoon prediction: comparison of initialization strategies. Theoretical and Applied Climatology, pp.1-14, https://doi.org/10.1007/s00704-020-03470-3.
 3.	Ankur Srivastava, Maheswar Pradhan, B. N. Goswami and Suryachandra A. Rao. "Regime shift of Indian summer monsoon rainfall to a persistent arid state: external forcing versus internal variability." Meteorology and Atmospheric Physics (2017): 1-14. https://doi.org/10.1007/s00703-017-0565-2.
 4.	Ankur Srivastava, Rao, Suryachandra A., Rao, D. Nagarjuna; George, G., Pradhan, M. (2017) Structure, Characteristics and Simulation of Monsoon low-pressure systems in CFSv2 coupled model. Journal of Geophysical Research: Oceans, 122, 6394–6415, https://doi.org/10.1002/2016JC012322.
 5.	Ankur Srivastava, M. Pradhan, G. George, A. Dhakate, K. Salunke, and S. A. Rao (2015), A Research Report on the 2015 Southwest Monsoon, pp. 58–62, Indian Inst. of Trop. Meteorol., Pune, India. [Available at http://www.tropmet.res.in/~lip/Publication/RR-pdf/RR-185.pdf.]
 
-Co-authored publications:
+## Co-authored publications:
 
 6.	Gade, S. V., Sreenivas, P., Rao, S. A., Srivastava, Ankur, & Pradhan, M. Impact of the Ensemble Kalman Filter based Coupled Data Assimilation System on Seasonal Prediction of Indian Summer Monsoon Rainfall. Geophysical Research Letters, https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021GL097184.
 7.	Pillai, P. A., Rao, S. A., Kiran, V. G., Pradhan, M., Srivastava, Ankur, & Jain, D. K. Impact of Reduced ENSO Variability and Amplitude on ISMR prediction in the long‐lead forecasts of Monsoon Mission CFS. International Journal of Climatology, https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/joc.7809.
