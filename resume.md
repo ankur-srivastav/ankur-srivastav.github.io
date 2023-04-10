@@ -16,7 +16,7 @@ Please find a pdf copy of my resume [here].
 
 ## COLLABORATIVE RESEARCH PROJECTS	
 
-“Coupled model development, evaluation and intercomparisons” – under the Weather and Climate Science for Service Partnership (WCSSP) India project (a collaborative science initiative between the UK and India) – ongoing.
+1. “Coupled model development, evaluation and intercomparisons” – under the Weather and Climate Science for Service Partnership (WCSSP) India project (a collaborative science initiative between the UK and India) – ongoing.
 
 1. Associate in the “HYbrid numerical-empirical WIND Speed forecasting for renewable energy applications (HYWINDS)” project granted to Dr. Somnath Baidya Roy, Indian Institute of Technology, Delhi under Monsoon Mission- III – ongoing.
 
