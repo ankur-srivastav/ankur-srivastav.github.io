@@ -13,11 +13,7 @@ masthead_title: Home
 title: "Ankur Srivastava"
 logo: "images/ankur_s.jpg"
 description: "Scientist"
-masthead_bio: "I am a scientist at the <a href=\"https://tropmet.res.in\" target=\"_blank\">Indian Institute of Tropical Meteorology</a> , an oceanographer, meteorologist and an engineer.
-  Ph.D. from <a href=\"https://iitb.ac.in\" target=\"_blank\">Indian Institute of Technology, Bombay</a> in <a href=\"https://www.climate.iitb.ac.in\" target=\"_blank\">Climate Studies</a>. My research interests include Monsoons, 
-  their different modes of variability, Monsoon teleconnections, Predictability, Coupled ocean-atmosphere modelling and
-  Seasonal Prediction. I have worked on the the impact of rivers on monsoon during my Ph.D. I am also interested in High
-  Performance Computing and Big Data."
+masthead_bio: "I am a scientist at the <a href=\"https://tropmet.res.in\" target=\"_blank\">Indian Institute of Tropical Meteorology</a>, and I am an oceanographer, meteorologist, and engineer. I earned my Ph.D. in <a href=\"https://www.climate.iitb.ac.in\" target=\"_blank\">Climate Studies</a> from the <a href=\"https://iitb.ac.in\" target=\"_blank\">Indian Institute of Technology, Bombay</a>. My research interests include Monsoons, their different modes of variability, Monsoon teleconnections, Predictability, Coupled ocean-atmosphere modelling, and Seasonal Prediction. During my Ph.D., I worked on the impact of rivers on the monsoon. Additionally, I am interested in High-Performance Computing and Big Data."
 twitter:
   username: ankur__s
 
