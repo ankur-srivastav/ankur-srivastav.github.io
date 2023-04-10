@@ -13,7 +13,8 @@ masthead_title: Home
 title: "Ankur Srivastava"
 logo: "images/ankur_s.jpg"
 description: "Scientist"
-masthead_bio: "I am a scientist at the <a href=\"https://tropmet.res.in\" target=\"_blank\">Indian Institute of Tropical Meteorology</a>, and I am an oceanographer, meteorologist, and engineer. I earned my Ph.D. in <a href=\"https://www.climate.iitb.ac.in\" target=\"_blank\">Climate Studies</a> from the <a href=\"https://iitb.ac.in\" target=\"_blank\">Indian Institute of Technology, Bombay</a>. My research interests include Monsoons, their different modes of variability, Monsoon teleconnections, Predictability, Coupled ocean-atmosphere modelling, and Seasonal Prediction. During my Ph.D., I worked on the impact of rivers on the monsoon. Additionally, I am interested in High-Performance Computing and Big Data."
+masthead_bio: "I am a scientist at the <a href=\"https://tropmet.res.in\" target=\"_blank\">Indian Institute of Tropical Meteorology</a>, and I am an oceanographer, meteorologist, and engineer. I earned my Ph.D. in <a href=\"https://www.climate.iitb.ac.in\" target=\"_blank\">Climate Studies</a> from the <a href=\"https://iitb.ac.in\" target=\"_blank\">Indian Institute of Technology, Bombay</a>. My research interests include Monsoons, their different modes of variability, Monsoon teleconnections, Predictability, Coupled ocean-atmosphere modelling, and Seasonal Prediction. During my Ph.D., I worked on the impact of rivers on the monsoon. Additionally, I am interested in High-Performance Computing and Big Data. 
+  Interested in collaborating on a common research problem? Please drop me an email."
 twitter:
   username: ankur__s
 
@@ -26,7 +27,7 @@ author:
   name: "Ankur Srivastava"
   location: "Pune, India"
   picture: images/ankur_s.jpg
-  bio: "I have worked on the the impact Scientist"
+  bio: "I have worked on the"
   twitter: ankur__s
   links:
     - label: "Twitter"
@@ -74,7 +75,7 @@ defaults:
 
 locale: en-US
 
-copyright: © 2022 Ankur Srivastava
+copyright: © 2023 Ankur Srivastava
 
 google_fonts:
   - name: "Source Sans Pro"
