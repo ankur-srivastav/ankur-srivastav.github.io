@@ -145,3 +145,7 @@ National Workshop cum Training on – *Data Assimilation for Atmospheric and Oce
 
 ## Publications
 Visit my [Google Scholar](https://scholar.google.co.in/citations?user=h_VAg8IAAAAJ&hl=en) page for the most up-to-date list of publications. Also, please visit my [publications page](https://ankur-srivastav.github.io/publications/). If you require a pdf copy of any publication, please send me an email.
+
+Please find a pdf copy of my resume [here](https://tropmet-my.sharepoint.com/:b:/g/personal/ankur_tropmet_onmicrosoft_com/EU_fLMq6iyhFtIgV9aTe4scB2fD8C9oQKxc2KPKSzN_BeA?e=qFJhEZ).
+
+Last updated: <date>
