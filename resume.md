@@ -2,11 +2,6 @@
 layout: page
 title: Resume
 permalink: /resume/
-margin-left: 2cm
-margin-right: 2cm
-margin-top: 1cm
-margin-bottom: 2cm
-description-meta: 'Ankur Srivastava's resume'
 ---
 
 ###### [[example.com](https://example.com)] . [ me@example.com] . [ 123 456 7890 ]
