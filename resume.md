@@ -6,27 +6,38 @@ permalink: /resume/
 
 ###### [[ankur-srivastav.github.io](https://ankur-srivastav.github.io/)] . [[Google Scholar](https://scholar.google.co.in/citations?user=h_VAg8IAAAAJ&hl=en)] . [[Twitter](https://twitter.com/ankur__s)] . [[LinkedIn](https://www.linkedin.com/in/ankursr/)] . [[IITM Profile](https://www.tropmet.res.in/130-Ankur%20%20Srivastava-scientist_detail)]
 
-#### Affiliations
-<br>
+#### Education
+**Doctor of Philosophy**
+[Indian Institute of Technology Bombay, Mumbai, India](https://www.iitb.ac.in/)
+[Interdisciplinary programme in Climate Studies](https://www.climate.iitb.ac.in/en/student-type/ankur-srivastava)
+*2016-2022*
+Thesis title: *"The Indian Summer Monsoon: Exploring the role of river runoff."*
+
+**Bachelor of Technology** in Electronics and Instrumentation Engineering
+[Gautam Buddh Technical University, Lucknow, India](https://aktu.ac.in/)
+*2008-2012*
+
+#### Professional appointments
+
 [Scientist](https://www.tropmet.res.in/207-Aditi%20%20Modi-scientist_detail), Indian Institute of Tropical Meteorology, Pune, India <br>
 [2013 - Present]
 
 [PhD scholar](https://www.climate.iitb.ac.in/en/student-type/aditi-modi), Indian Institute of Technology Mumbai <br>
 [2018 - Present]
 
-## Skills
+#### Languages
 
-```programming```
-```devops```
-```databases```
-```containers```
-```linux systems administration```
-```webservers```
-```project management```
-```system architecture & design```
-```entrepreneurship```
-```load/stress testing```
-```WordPress```
+```NCAR Command Language (NCL)```
+```Matlab```
+```C```
+```C++```
+```Linux```
+```Unix```
+```Shell scripting```
+```Fortran```
+```Ferret```
+```Python```
+```R```
 
 {::comment}
 **Programming**: Lua, Haskell, Erlang, Go, Javascript
