@@ -11,6 +11,20 @@ output:
     number_sections: true
     theme: lumen
 ---
+## Navigation
+1. [Education](#education)
+2. [Professional appointments](#professional-appointments)
+3. [Languages](#languages)
+4. [Research areas](#research-areas)
+5. [Other information](#other-information)
+6. [Research guidance](#research-guidance)
+7. [Collaborative research projects](#collaborative-research-projects)
+9. [Invited talks](#invited-talks)
+10. [Teaching](#teaching)
+11. [IITM Monsoon discussion forum](#iitm-monsoon-discussion-forum)
+12. [Talks in workshops/conferences](#talks-in-workshops-conferences)
+13. [Other conferences/workshops/meetings](#other-conferences-workshops-meetings)
+14. [Publications](#publications)
 
 ###### [[ankur-srivastav.github.io](https://ankur-srivastav.github.io/)] . [[Google Scholar](https://scholar.google.co.in/citations?user=h_VAg8IAAAAJ&hl=en)] . [[Twitter](https://twitter.com/ankur__s)] . [[LinkedIn](https://www.linkedin.com/in/ankursr/)] . [[IITM Profile](https://www.tropmet.res.in/130-Ankur%20%20Srivastava-scientist_detail)]
 
