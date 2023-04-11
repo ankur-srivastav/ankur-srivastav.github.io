@@ -12,6 +12,7 @@ permalink: /resume/
 [Interdisciplinary programme in Climate Studies](https://www.climate.iitb.ac.in/en/student-type/ankur-srivastava)<br>
 *2016-2022*<br>
 Thesis title: *"The Indian Summer Monsoon: Exploring the role of river runoff."*<br>
+Thesis advisors: [Dr. Suryachandra A. Rao](https://www.tropmet.res.in/17-Suryachandra%20A.%20Rao-scientist_detail) and [Prof. Subimal Ghosh](https://www.civil.iitb.ac.in/~subimal/)
 
 **Bachelor of Technology**<br>
 Electronics and Instrumentation Engineering<br>
@@ -45,6 +46,35 @@ Centre for Advanced Training, Indian Institute of Tropical Meteorology, Pune, In
 ```Ferret```
 ```Python```
 ```R```
+
+## Research Areas
+• Coupled ocean-atmospheric modeling<br>
+• Interaction of Land-surface hydrology with upper-ocean in coupled models<br>
+• Ocean mixed layer and barrier layer processes<br>
+• Air-sea interactions associated with monsoon intra-seasonal oscillations<br>
+• Monsoon low-pressure systems<br>
+• Monsoon and its variability at sub-seasonal to inter-annual time scales<br>
+• Predictability and Seasonal Prediction<br>
+• Monsoon teleconnections with tropical modes of variability<br>
+
+## Other Information
+Indian Citizen<br>
+Member of Indian Meteorological Society<br>
+
+## Research Guidance
+**Arnab Gogoi**, Indian Academy of Sciences – Indian National Science Academy – National Academy of Sciences - Summer Research Fellow project on “Upper Ocean Stratification and Monsoon Low Pressure System over Bay of Bengal”, 2022.
+
+**Daniel Simon**, Post-graduate research project on “The teleconnections of Equatorial Indian Ocean Sea Surface temperature and convection with Indian Summer Monsoon Rainfall”, 2017 – co-supervised with [Dr. Suryachandra A. Rao]((https://www.tropmet.res.in/17-Suryachandra%20A.%20Rao-scientist_detail)).
+
+**Anjana S. Nair**, Summer internship on “Monsoon intraseasonal oscillations and the role of heat fluxes in determining the SST”, 2017.
+
+## Collaborative research projects
+
+*“Coupled model development, evaluation and intercomparisons”* – under the Weather and Climate Science for Service Partnership (WCSSP) India project (a collaborative science initiative between the UK and India) – ongoing.
+
+Associate in the *“HYbrid numerical-empirical WIND Speed forecasting for renewable energy applications (HYWINDS)”* project granted to Dr. Somnath Baidya Roy, Indian Institute of Technology, Delhi under Monsoon Mission- III – ongoing.
+
+Associate in the *“Extremes of Indian Summer Monsoon Rainfall and their relationship to three-dimensional Diabatic Heating over the Pacific and Indian Oceans: EQUINOO, IOD and ENSO”* project granted to Prof. David Strauss, George Mason University, under Monsoon Mission – II.
 
 {::comment}
 **Programming**: Lua, Haskell, Erlang, Go, Javascript
