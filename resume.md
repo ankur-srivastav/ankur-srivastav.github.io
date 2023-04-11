@@ -16,15 +16,15 @@ Please find a pdf copy of my resume [here].
 
 ## COLLABORATIVE RESEARCH PROJECTS	
 
-1. “Coupled model development, evaluation and intercomparisons” – under the Weather and Climate Science for Service Partnership (WCSSP) India project (a collaborative science initiative between the UK and India) – ongoing.
+1. *“Coupled model development, evaluation and intercomparisons”* – under the Weather and Climate Science for Service Partnership (WCSSP) India project (a collaborative science initiative between the UK and India) – ongoing.
 
-1. Associate in the “HYbrid numerical-empirical WIND Speed forecasting for renewable energy applications (HYWINDS)” project granted to Dr. Somnath Baidya Roy, Indian Institute of Technology, Delhi under Monsoon Mission- III – ongoing.
+1. Associate in the *“HYbrid numerical-empirical WIND Speed forecasting for renewable energy applications (HYWINDS)”* project granted to Dr. Somnath Baidya Roy, Indian Institute of Technology, Delhi under Monsoon Mission- III – ongoing.
 
-1. Associate in the “Extremes of Indian Summer Monsoon Rainfall and their relationship to three-dimensional Diabatic Heating over the Pacific and Indian Oceans: EQUINOO, IOD and ENSO” project granted to Prof. David Strauss, George Mason University, under Monsoon Mission – II.
+1. Associate in the *“Extremes of Indian Summer Monsoon Rainfall and their relationship to three-dimensional Diabatic Heating over the Pacific and Indian Oceans: EQUINOO, IOD and ENSO”* project granted to Prof. David Strauss, George Mason University, under Monsoon Mission – II.
 	
 ## INVITED TALKS
 
-1. “Advances in dynamical seasonal prediction in India”, at the Annual Monsoon Workshop-2022 and National Symposium on “Challenges in climate services for health sector in the warming environment” organized by the India Meteorological Society - Pune, 28th-30th March 2023.
+1. *“Advances in dynamical seasonal prediction in India”*, at the Annual Monsoon Workshop-2022 and National Symposium on “Challenges in climate services for health sector in the warming environment” organized by the India Meteorological Society - Pune, 28th-30th March 2023.
 
 1. “Applications of ensemble forecasts”, capacity building workshop with stakeholders at International Crops Research Institute for the Semi-arid Tropics (ICRISAT), Hyderabad, Telangana - India, 6th March 2020.
 
@@ -89,4 +89,4 @@ systems in CFSv2 coupled model.” National Symposium on Understanding Weather a
 
 1. National Workshop cum Training on – ‘Data Assimilation for Atmospheric and Ocean models’, 3-10 October 2012, IITM, Pune, India.
 
-[here]: https://tropmet.res.in/
+[here]: https://tropmet-my.sharepoint.com/:b:/g/personal/ankur_tropmet_onmicrosoft_com/EU_fLMq6iyhFtIgV9aTe4scB2fD8C9oQKxc2KPKSzN_BeA?e=qFJhEZ
