@@ -7,29 +7,30 @@ permalink: /resume/
 ###### [[ankur-srivastav.github.io](https://ankur-srivastav.github.io/)] . [[Google Scholar](https://scholar.google.co.in/citations?user=h_VAg8IAAAAJ&hl=en)] . [[Twitter](https://twitter.com/ankur__s)] . [[LinkedIn](https://www.linkedin.com/in/ankursr/)] . [[IITM Profile](https://www.tropmet.res.in/130-Ankur%20%20Srivastava-scientist_detail)]
 
 ## Education
-**Doctor of Philosophy**
+**Doctor of Philosophy**<br>
 [Indian Institute of Technology Bombay, Mumbai, India](https://www.iitb.ac.in/)<br>
 [Interdisciplinary programme in Climate Studies](https://www.climate.iitb.ac.in/en/student-type/ankur-srivastava)<br>
 *2016-2022*<br>
 Thesis title: *"The Indian Summer Monsoon: Exploring the role of river runoff."*<br>
 
-**Bachelor of Technology** in Electronics and Instrumentation Engineering<br>
+**Bachelor of Technology**<br>
+Electronics and Instrumentation Engineering<br>
 [Gautam Buddh Technical University, Lucknow, India](https://aktu.ac.in/)<br>
 *2008-2012*<br>
 
 ## Professional appointments
 
-**Scientist D**, 2021-present *(2 years 3 months)*
-Monsoon Mission, Indian Institute of Tropical Meteorology, Pune, India
+**Scientist D**, 2021-present *(2 years 3 months)*<br>
+Monsoon Mission, Indian Institute of Tropical Meteorology, Pune, India<br>
 
-**Scientist C**, 2017-2020 *(4 years)*
-Monsoon Mission, Indian Institute of Tropical Meteorology, Pune, India
+**Scientist C**, 2017-2020 *(4 years)*<br>
+Monsoon Mission, Indian Institute of Tropical Meteorology, Pune, India<br>
 
-**Scientist B**, 2014-2016 *(3 years)*
-Monsoon Mission, Indian Institute of Tropical Meteorology, Pune, India
+**Scientist B**, 2014-2016 *(3 years)*<br>
+Monsoon Mission, Indian Institute of Tropical Meteorology, Pune, India<br>
 
-**Trainee Scientist**, 2012-2013 *(1 year 6 months)*
-Centre for Advanced Training, Indian Institute of Tropical Meteorology, Pune, India
+**Trainee Scientist**, 2012-2013 *(1 year 6 months)*<br>
+Centre for Advanced Training, Indian Institute of Tropical Meteorology, Pune, India<br>
 
 ## Languages
 
