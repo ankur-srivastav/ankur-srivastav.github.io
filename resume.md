@@ -2,6 +2,7 @@
 layout: page
 title: Resume
 permalink: /resume/
+toc: true
 ---
 
 ###### [[ankur-srivastav.github.io](https://ankur-srivastav.github.io/)] . [[Google Scholar](https://scholar.google.co.in/citations?user=h_VAg8IAAAAJ&hl=en)] . [[Twitter](https://twitter.com/ankur__s)] . [[LinkedIn](https://www.linkedin.com/in/ankursr/)] . [[IITM Profile](https://www.tropmet.res.in/130-Ankur%20%20Srivastava-scientist_detail)]
