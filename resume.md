@@ -76,49 +76,72 @@ Associate in the *“HYbrid numerical-empirical WIND Speed forecasting for renew
 
 Associate in the *“Extremes of Indian Summer Monsoon Rainfall and their relationship to three-dimensional Diabatic Heating over the Pacific and Indian Oceans: EQUINOO, IOD and ENSO”* project granted to Prof. David Strauss, George Mason University, under Monsoon Mission – II.
 
-{::comment}
-**Programming**: Lua, Haskell, Erlang, Go, Javascript
-**Databases**: MySQL, Postgres, sqlite, SQL Server, Oracle, Pick
-**Linux**: Gentoo, Alpine, CentOS, Ubuntu, Debian
-**DevOps**: Ansible, Chef, Kubernetes, etc.
+## Invited talks
 
-## Experience
+**Advances in dynamical seasonal prediction in India**, at the Annual Monsoon Workshop-2022 and National Symposium on 
 
-### CEO and Founder, Pied Piper
+**Challenges in climate services for health sector in the warming environment** organized by the India Meteorological Society - Pune, 28th-30th March 2023.
 
-start-date-end-date, City, State and remote
+**Applications of ensemble forecasts**, capacity building workshop with stakeholders at International Crops Research Institute for the Semi-arid Tropics (ICRISAT), Hyderabad, Telangana - India, 6th March 2020.
 
-- Things you did/do here
-- More things that you do here.
+**Dynamical Seasonal Prediction & Seasonal Climate Forecasts based on CFS**,
+Interaction Meeting between Atmospheric and Agricultural Scientists, IITM Pune, 14th June, 2019.
 
-**Technologies used:** Tell people about the languages, apps, technologies you used to succeed at this job.
+**Advances in dynamical seasonal prediction in India & Seasonal Monsoon Forecasts 2018** at the Annual Monsoon Workshop 2018 and Prof. D. R. Sikka Memorial National Symposium on “Role of weather & climate observations and forecasting on increasing agricultural productivity & risk management” organized by the India Meteorological Society - Pune, 28th March, 2019.
 
-### Senior Software Architect, Hooli
+## Teaching
 
-2010-2016, San Francisco, CA
+*Dynamical Seasonal Prediction*, Capacity Building Training Workshop, South Asian Climate Outlook Forum (SASCOF-12), India Meteorological Department (IMD), Pune, India – 17th April 2018.
 
-- This is the job you had before your latest job
-- Did you do anything that wasn't part of your job description, but you excelled at?
+*Intra-seasonal variabilities of Indian Summer Monsoon*, Faculty Development Program, Air Force Administrative College, Coimbatore – India, 29th January 2019.
 
-**Technologies used:** Tell people about the languages, apps, technologies you used to succeed at this job.
+*Predictability & Dynamical Seasonal Prediction*, Faculty Development Program, Air Force Administrative College, Coimbatore – India, 29th January 2019.
 
-## Awards & Recognition
+*The Indian Summer Monsoon, an overview of mean and variability*, Faculty Development Program, Air Force Administrative College, Coimbatore – India, 29th January 2019.
 
-- Winner TechCrunch Disrupt 2001
-- People Magazine's sexiest man alive at 123 My Address, MyCity, TX
+*The Monsoon Mission*, Faculty Development Program, Air Force Administrative College, Coimbatore – India, 29th January 2019.
 
-## Projects
+*Seasonal Prediction activities at IITM*, Hydromet and Early Warning Joint Learning Exercise organized by the World Bank at IITM, Pune – 31st October 2022.
 
-**[*Personal Blog*](http://luther.io)** (2021-present)
+## IITM Monsoon Discussion Forum
 
-- Authored a series of articles covering a wide variety of topics and tools related to technology like PHP, WordPress, Ruby, Linux, Docker, and Privacy.
+Monsoon discussion forums are organized in IITM every year during the boreal summer to discuss various aspects of the monsoon. I have been consistently involved in providing the seasonal outlooks at this forum (2015-present).
+Due to COVID some of these talks were online, benefitting audience outside of IITM. Some of these talks are available from the [IITM YouTube Channel](https://www.youtube.com/@iitmpune6704).
 
-## Education
+## Talks in workshops/ conferences
 
-### Masters in BS, Example University
+**Indian summer monsoon precipitation biases in GloSea and CFS and their response to large-scale drivers**, 4th WCSSP India Annual Science Workshop, Ministry of Earth Sciences, New Delhi – India, 27th February 2023.
 
-- 4.0 GPA
-- Deans List
-- Member of xyz club, etc.
-- I didn't really go to college so I don't know what you would put here.
-{:/comment}
+**Interaction of rivers with the Indian Summer Monsoon: Modeling, impact on variability and implications for predictability**, International Workshop on Monsoons (IWM-7), 22-26 March 2022, New Delhi, India.
+
+**Simulation of monsoon low pressure systems in a coupled model and their links to extreme rainfall events over Central India**, 16th annual meeting of the Asia Oceania Geosciences Society (AOGS), Singapore, 28th July-2nd August 2019.
+
+**Monsoon Low Pressure Systems: Their simulation in CFSv2 coupled model and impact of ocean-atmosphere coupled dynamics**, World Ocean Science Conference, Andhra University, Visakhapatnam – India, 25-27 February 2019.
+
+**Structure, Characteristics and Simulation of Monsoon low-pressure systems in CFSv2 coupled model**. National Symposium on Understanding Weather and Climate Variability: Research for Society, 24 to 27 October, 2018, Banaras Hindu University, Varanasi, Uttar Pradesh – India
+
+**Monsoon Mission: Responsible for improving monsoon weather/climate forecasts, The Seasonal Prediction Framework** at the Young Scientists’ Conference, India International Science Festival, held during October 05-06, 2018 at Lucknow - India. 
+
+## Other conferences/ workshops/ meetings
+
+The 2nd WCSSP India Annual Workshop *Building a legacy in Science to Services* held during 1st-4th February 2021.
+India-US joint workshop (EKAMSAT and CASBAH) on Arabian Sea Boundary Layer Dynamics Studies during 4 – 5 March 2021.
+
+Workshop on *National Information system for Climate and Environment Studies (NICES) and its Activities*, at IITM, Pune on 8th January 2020, organized by IMS Pune Chapter (IMSP), IITM Pune and NRSC.
+
+Workshop series on *Next-Gen Agro advisory services for climate smart agriculture*, Organized by International Crops Research Institute for Semi-Arid Tropics (ICRISAT), All India Coordinated Research Project on Agro-meteorology (AICRPAM), Indian Meteorological Department (IMD), Indian Institute of Tropical Meteorology (IITM), Climate Change Agriculture and Food Security (CCAFS) - South Asia, December 2020 – January 2021.
+
+The WCSSP Annual Science meeting at IITM, Pune – India, during 5-7 February 2020.
+
+Targeted Training activity on *Monsoons in a changing climate* at the Abdus Salam International Centre for Theoretical Physics, Trieste, Italy, 31st July to 4th August 2017.
+
+*Major changes in Indian Summer Monsoon circulation: Role of Indian Ocean* at the International Symposium on Indian Ocean at National Institute of Oceanography, Goa, India, 30 November to 4 December 2016.
+
+*Modeling and Prediction of the Asian Monsoon: Improving Physical Processes*, International Centre for Theoretical Physics (ICTP)-IITM-Targeted Training Activity held at IITM during 9th-20th February 2015.
+
+*Intraseasonal Monsoon Predictability and Prediction*, IITM-ICTP Targeted Training Activity (TTA), IITM, Pune – India, January 14-25, 2013.
+
+National Workshop cum Training on – *Data Assimilation for Atmospheric and Ocean models*, 3-10 October 2012, IITM, Pune, India.
+
+## Publications
+Visit my [Google Scholar](https://scholar.google.co.in/citations?user=h_VAg8IAAAAJ&hl=en) page for the most up-to-date list of publications. Also, please visit my [publications page](https://ankur-srivastav.github.io/publications/). If you require a pdf copy of any publication, please send me an email.
