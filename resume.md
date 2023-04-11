@@ -148,4 +148,4 @@ Visit my [Google Scholar](https://scholar.google.co.in/citations?user=h_VAg8IAAA
 
 Please find a pdf copy of my resume [here](https://tropmet-my.sharepoint.com/:b:/g/personal/ankur_tropmet_onmicrosoft_com/EU_fLMq6iyhFtIgV9aTe4scB2fD8C9oQKxc2KPKSzN_BeA?e=qFJhEZ).
 
-Last updated: <date>
+Last updated: 11 April, 2023
