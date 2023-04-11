@@ -48,14 +48,14 @@ Centre for Advanced Training, Indian Institute of Tropical Meteorology, Pune, In
 ```R```
 
 ## Research Areas
-• Coupled ocean-atmospheric modeling<br>
-• Interaction of Land-surface hydrology with upper-ocean in coupled models<br>
-• Ocean mixed layer and barrier layer processes<br>
-• Air-sea interactions associated with monsoon intra-seasonal oscillations<br>
-• Monsoon low-pressure systems<br>
-• Monsoon and its variability at sub-seasonal to inter-annual time scales<br>
-• Predictability and Seasonal Prediction<br>
-• Monsoon teleconnections with tropical modes of variability<br>
+- Coupled ocean-atmospheric modeling<br>
+- Interaction of Land-surface hydrology with upper-ocean in coupled models<br>
+- Ocean mixed layer and barrier layer processes<br>
+- Air-sea interactions associated with monsoon intra-seasonal oscillations<br>
+- Monsoon low-pressure systems<br>
+- Monsoon and its variability at sub-seasonal to inter-annual time scales<br>
+- Predictability and Seasonal Prediction<br>
+- Monsoon teleconnections with tropical modes of variability<br>
 
 ## Other Information
 Indian Citizen<br>
