@@ -8,11 +8,11 @@ Please find a pdf copy of my resume [here].
 
 ## RESEARCH GUIDANCE	
 
-1. Arnab Gogoi, Indian Academy of Sciences – Indian National Science Academy – National Academy of Sciences - Summer Research Fellow project on “Upper Ocean Stratification and Monsoon Low Pressure System over Bay of Bengal”, 2022.
+1. **Arnab Gogoi**, Indian Academy of Sciences – Indian National Science Academy – National Academy of Sciences - Summer Research Fellow project on “Upper Ocean Stratification and Monsoon Low Pressure System over Bay of Bengal”, 2022.
 
-2. Daniel Simon, Post-graduate research project on “The teleconnections of Equatorial Indian Ocean Sea Surface temperature and convection with Indian Summer Monsoon Rainfall”, 2017 – co-supervised with Dr. Suryachandra A. Rao.
+2. **Daniel Simon**, Post-graduate research project on “The teleconnections of Equatorial Indian Ocean Sea Surface temperature and convection with Indian Summer Monsoon Rainfall”, 2017 – co-supervised with Dr. Suryachandra A. Rao.
 
-2. Anjana S. Nair, Summer internship on “Monsoon intraseasonal oscillations and the role of heat fluxes in determining the SST”, 2017.
+2. **Anjana S. Nair**, Summer internship on “Monsoon intraseasonal oscillations and the role of heat fluxes in determining the SST”, 2017.
 
 ## COLLABORATIVE RESEARCH PROJECTS	
 
