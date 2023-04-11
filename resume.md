@@ -17,6 +17,7 @@ subject: 'Subject'
 
 ### This is where you have your statement, that describes who you are and what you're looking for. Hopefully it's not cliche and it stands out in a good way
 
+{::comment}
 ## Skills
 
 ```programming```
@@ -75,3 +76,4 @@ start-date-end-date, City, State and remote
 - Deans List
 - Member of xyz club, etc.
 - I didn't really go to college so I don't know what you would put here.
+{:/comment}
