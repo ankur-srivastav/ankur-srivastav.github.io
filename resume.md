@@ -6,6 +6,14 @@ permalink: /resume/
 
 ###### [[ankur-srivastav.github.io](https://ankur-srivastav.github.io/)] . [[Google Scholar](https://scholar.google.co.in/citations?user=h_VAg8IAAAAJ&hl=en)] . [[Twitter](https://twitter.com/ankur__s)] . [[LinkedIn](https://www.linkedin.com/in/ankursr/)] . [[IITM Profile](https://www.tropmet.res.in/130-Ankur%20%20Srivastava-scientist_detail)]
 
+#### Affiliations
+<br>
+[Scientist](https://www.tropmet.res.in/207-Aditi%20%20Modi-scientist_detail), Indian Institute of Tropical Meteorology, Pune, India <br>
+[2013 - Present]
+
+[PhD scholar](https://www.climate.iitb.ac.in/en/student-type/aditi-modi), Indian Institute of Technology Mumbai <br>
+[2018 - Present]
+
 ## Skills
 
 ```programming```
