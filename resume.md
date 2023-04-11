@@ -4,11 +4,8 @@ title: Resume
 permalink: /resume/
 ---
 
-###### [[example.com](https://example.com)] . [ me@example.com] . [ 123 456 7890 ]
+###### [[ankur-srivastav.github.io](https://ankur-srivastav.github.io/)] . [[Google Scholar](https://scholar.google.co.in/citations?user=h_VAg8IAAAAJ&hl=en)] . [[Twitter](https://twitter.com/ankur__s)] . [[LinkedIn](https://www.linkedin.com/in/ankursr/)] . [[IITM Profile](https://www.tropmet.res.in/130-Ankur%20%20Srivastava-scientist_detail)]
 
-### This is where you have your statement, that describes who you are and what you're looking for. Hopefully it's not cliche and it stands out in a good way
-
-{::comment}
 ## Skills
 
 ```programming```
@@ -23,6 +20,7 @@ permalink: /resume/
 ```load/stress testing```
 ```WordPress```
 
+{::comment}
 **Programming**: Lua, Haskell, Erlang, Go, Javascript
 **Databases**: MySQL, Postgres, sqlite, SQL Server, Oracle, Pick
 **Linux**: Gentoo, Alpine, CentOS, Ubuntu, Debian
