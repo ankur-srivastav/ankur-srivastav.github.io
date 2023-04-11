@@ -1,4 +1,10 @@
 ---
+layout: page
+title: Resume
+permalink: /resume/
+---
+
+---
 margin-left: 2cm
 margin-right: 2cm
 margin-top: 1cm
