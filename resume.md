@@ -2,15 +2,13 @@
 layout: page
 title: Resume
 permalink: /resume/
----
-
----
 margin-left: 2cm
 margin-right: 2cm
 margin-top: 1cm
 margin-bottom: 2cm
-title: Your Resume in Markdown
 description-meta: 'This is the meta description for the HTML file, and one day the PDF file, for better SEO?'
+---
+
 keywords:
   - 'php'
   - 'mysql'
