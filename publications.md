@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 
 ## Lead author publications:
-1.	Ankur Srivastava, Suryachandra A. Rao and Subimal Ghosh (2023). Impact of riverine freshwater on synoptic and intra-seasonal variability of the Indian Summer Monsoon, Dynamics of atmosphere and ocean (revised). International Journal of Climatology.
+1.	Ankur Srivastava, Suryachandra A. Rao and Subimal Ghosh (2023). Improving the subseasonal variability of the Indian summer monsoon in a climate model. International Journal of Climatology. https://doi.org/10.1002/joc.8142.
 2.	Ankur Srivastava, Suryachandra A. Rao and Subimal Ghosh (2023). Bay of Bengal upper-ocean stratification and the sub-seasonal variability in convection: Role of rivers in a coupled ocean-atmosphere model. Special issue of Mausam, 74, 2 (April, 2023), Fifth Volume of the book series, The Global Monsoon System. https://doi.org/10.54302/mausam.v74i2.6011.
 3.  Srivastava, Ankur, Anguluri, S. R., & Ghosh, S. Impact of riverine freshwater on Indian Summer Monsoon: Coupling a runoff routing model to a global seasonal forecast model. Frontiers in Climate, https://www.frontiersin.org/articles/10.3389/fclim.2022.902586/full.
 4.	Srivastava, A., Rao, S.A., Pradhan, M., Pillai, P.A. and Prasad, V.S., 2020. Gain of one-month lead time in seasonal prediction of Indian summer monsoon prediction: comparison of initialization strategies. Theoretical and Applied Climatology, pp.1-14, https://doi.org/10.1007/s00704-020-03470-3.

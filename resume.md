@@ -100,9 +100,7 @@ Associate in the *“Extremes of Indian Summer Monsoon Rainfall and their relati
 
 ## Invited talks
 
-**Advances in dynamical seasonal prediction in India**, at the Annual Monsoon Workshop-2022 and National Symposium on 
-
-**Challenges in climate services for health sector in the warming environment** organized by the India Meteorological Society - Pune, 28th-30th March 2023.
+**Advances in dynamical seasonal prediction in India**, at the Annual Monsoon Workshop-2022 and National Symposium on **Challenges in climate services for health sector in the warming environment** organized by the India Meteorological Society - Pune, 28th-30th March 2023.
 
 **Applications of ensemble forecasts**, capacity building workshop with stakeholders at International Crops Research Institute for the Semi-arid Tropics (ICRISAT), Hyderabad, Telangana - India, 6th March 2020.
 
