@@ -84,6 +84,8 @@ Indian Citizen<br>
 Member of Indian Meteorological Society<br>
 
 ## Research Guidance
+**Vikas Yadav**, M.Sc. Atmospheric Sciences - National Institute of Technology Rourkela. Summer internship on "Predictability of the Indian Ocean Dipole: Coupled models and sub-surface variability". June-July 2023.
+
 **Arnab Gogoi**, Indian Academy of Sciences – Indian National Science Academy – National Academy of Sciences - Summer Research Fellow project on “Upper Ocean Stratification and Monsoon Low Pressure System over Bay of Bengal”, 2022.
 
 **Daniel Simon**, Post-graduate research project on “The teleconnections of Equatorial Indian Ocean Sea Surface temperature and convection with Indian Summer Monsoon Rainfall”, 2017 – co-supervised with [Dr. Suryachandra A. Rao]((https://www.tropmet.res.in/17-Suryachandra%20A.%20Rao-scientist_detail)).
