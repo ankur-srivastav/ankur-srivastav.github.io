@@ -43,8 +43,10 @@ Electronics and Instrumentation Engineering<br>
 
 ## Professional appointments
 
-**Scientist D**, 2021-present *(2 years 3 months)*<br>
+**Scientist D**, 2021-present <br>
 Monsoon Mission, Indian Institute of Tropical Meteorology, Pune, India<br>
+
+**Member, Model Evaluation subgroup, Fresh Eyes on CMIP** (August 2023 – present), CMIP Panel and Working Group on Coupled Models (WGCM) Infrastructure Panel (WIP).
 
 **Scientist C**, 2017-2020 *(4 years)*<br>
 Monsoon Mission, Indian Institute of Tropical Meteorology, Pune, India<br>
@@ -131,6 +133,8 @@ Monsoon discussion forums are organized in IITM every year during the boreal sum
 Due to COVID some of these talks were online, benefitting audience outside of IITM. Some of these talks are available from the [IITM YouTube Channel](https://www.youtube.com/@iitmpune6704).
 
 ## Talks in workshops/ conferences
+
+**Sub-seasonal air-sea interactions in the Bay of Bengal and a recipe for improving them in coupled ocean-atmosphere models**, Eighth National Conference of Ocean Society of India- OSICON-23 at INCOIS Hyderabad, 23-25 August, 2023.
 
 **Indian summer monsoon precipitation biases in GloSea and CFS and their response to large-scale drivers**, 4th WCSSP India Annual Science Workshop, Ministry of Earth Sciences, New Delhi – India, 27th February 2023.
 
