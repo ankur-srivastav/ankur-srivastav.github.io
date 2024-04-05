@@ -134,6 +134,20 @@ Due to COVID some of these talks were online, benefitting audience outside of II
 
 ## Talks in workshops/ conferences
 
+**Seasonal forecasting of Marine Heat Waves: Translating research to ocean services**. World Ocean Science Congress-2024, 27-29 February 2024 jointly organized by NIOT, IIT-Madras and Vijnana Bharti at Chennai.
+
+**Interaction of rivers with the monsoon system: A climate modelling perspective towards better monsoon forecasts**, International Conference on Climate Change and Agroecosystem: Threats, Opportunities and Solutions (INAGMET-2024), 8-10 February 2024, Banaras Hindu University, Varanasi.
+
+**Conditioning of the Indian Ocean Dipole by Equatorial Pacific Ocean: Processes and Predictability**, TROPMET-2023, Jaipur, 22-24 November 2023. 
+
+**Role of the surface hydrological cycle in driving air-sea interactions and implications for predictability**, WCRP Open Science Conference, Kigali, Rwanda, 23-27 October 2023. 
+
+**WCRP Stratosphere-troposphere Processes And their Role in Climate (SPARC) training school on “Climate Data Science & Artificial Intelligence in the Global South”** October 29 to 31, 2023 at the University of Rwanda – College of Science and Technology.
+
+**Large-scale perspective of Indian summer monsoon 2023**, WCSSP India Forum on coupled process interactions, online, October 19, 2023. 
+
+**“मानसून के पूर्वानुमान में नदियों की भूमिका”**, National Hindi Scientific Seminar, 27th September 2023, NCPOR, Goa.
+
 **Sub-seasonal air-sea interactions in the Bay of Bengal and a recipe for improving them in coupled ocean-atmosphere models**, Eighth National Conference of Ocean Society of India- OSICON-23 at INCOIS Hyderabad, 23-25 August, 2023.
 
 **Indian summer monsoon precipitation biases in GloSea and CFS and their response to large-scale drivers**, 4th WCSSP India Annual Science Workshop, Ministry of Earth Sciences, New Delhi – India, 27th February 2023.
