@@ -46,6 +46,8 @@ Electronics and Instrumentation Engineering<br>
 **Scientist D**, 2021-present <br>
 Monsoon Mission, Indian Institute of Tropical Meteorology, Pune, India<br>
 
+[**Member, Working Group on Numerical Experimentation**](https://wgne.net/) panel (August 2024 – present), Earth System Modelling and Observations, core project of the World Climate Research Programme (WCRP).
+
 **Member, Model Evaluation subgroup, Fresh Eyes on CMIP** (August 2023 – present), CMIP Panel and Working Group on Coupled Models (WGCM) Infrastructure Panel (WIP).
 
 **Scientist C**, 2017-2020 *(4 years)*<br>
