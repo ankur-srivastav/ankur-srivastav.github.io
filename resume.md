@@ -136,7 +136,7 @@ Due to COVID some of these talks were online, benefitting audience outside of II
 
 ## Talks in workshops/ conferences
 
-**Improving the Subseasonal Variability of the Indian Summer Monsoon in a Climate Model**, 21st Annual Meeting of the Asia Oceania Geosciences Society (AOGS2024), 23-28 June 2024 at Pyeongchang, Gangwon-do, South Korea.
+**Improving the Subseasonal Variability of the Indian Summer Monsoon in a Climate Model**, [21st Annual Meeting of the Asia Oceania Geosciences Society (AOGS2024)](https://www.asiaoceania.org/aogs2024/public.asp?page=home.asp), 23-28 June 2024 at Pyeongchang, Gangwon-do, South Korea.
 
 **Seasonal forecasting of Marine Heat Waves: Translating research to ocean services**. World Ocean Science Congress-2024, 27-29 February 2024 jointly organized by NIOT, IIT-Madras and Vijnana Bharti at Chennai.
 
