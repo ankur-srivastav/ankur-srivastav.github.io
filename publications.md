@@ -17,14 +17,9 @@ permalink: /publications/
 ## Co-authored publications:
 
 5. Ankur Srivastava, Suryachandra A. Rao, Subimal Ghosh (2024). [Impact of river freshwater on subseasonal to seasonal variability in a climate model Research activities in Earth system modelling. Working Group on Numerical Experimentation. WCRP Report No.12/2024. WMO, Geneva.](https://wgne.net/bluebook/)
-
 2.	Maheswar Pradhan, Ankur Srivastava, Suryachandra A. Rao (2024). [Soil Moisture Feedback over Wet vs. Arid Regions of India”. Working Group on Numerical Experimentation. WCRP Report No.12/2024. WMO, Geneva.](https://wgne.net/bluebook/)
-
 3.	Ashish Alone, Ankur Srivastava, Maheswar Pradhan (2024). [Enhancing Extreme Rainfall Forecasting Through Machine Learning Techniques”. Working Group on Numerical Experimentation. WCRP Report No.12/2024. WMO, Geneva.](https://wgne.net/bluebook/)
-
-
 5. Bhowmik, M., Hazra, A., Srivastava, A. et al. [Improved Indian Summer Monsoon rainfall simulation: the significance of reassessing the autoconversion parameterization in coupled climate model.](https://doi.org/10.1007/s00382-024-07243-w) Climate Dynamics (2024).
-
 5. P. M. Dhage, A. Srivastava, S. A. Rao, A. Soni, and M. Pradhan (2024). [Applicability of seasonal forecasts from dynamical models for reservoir management practices, Mausam, vol. 75, no. 2, pp. 559–572](https://doi.org/10.54302/mausam.v75i2.6229).
 6. Keane, R. J., Srivastava, A., and Martin, G. M (2024): [Development of Indian summer monsoon precipitation biases in two seasonal forecasting systems and their response to large-scale drivers, Weather and Climate Dynamics](https://doi.org/10.5194/egusphere-2023-2653) (accepted), EGUsphere [preprint], 2023.
 7. Jain, D., Rao, S. A., Dandi, R. A., Pillai, P. A., Srivastava, A., Pradhan, M., and Gangadharan, K. V. (2024): [Monsoon Mission Coupled Forecast System version 2.0: model description and Indian monsoon simulations](https://doi.org/10.5194/gmd-17-709-2024), Geosci. Model Dev.
