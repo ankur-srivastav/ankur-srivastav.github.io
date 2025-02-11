@@ -5,6 +5,8 @@ permalink: /publications/
 ---
 
 ## Lead author publications:
+1. Ankur Srivastava (2025). [Can terrestrial rivers impact sub-seasonal to seasonal climate variability?”. WCRP Earth System Modelling and Observations (ESMO). (2025). ESMO Brief - ESMO Newsletter #1. ESMO, Hamburg, Germany](https://doi.org/10.5281/zenodo.14779024.)
+1. Ankur Srivastava, Suryachandra A. Rao, Subimal Ghosh (2024). [Impact of river freshwater on subseasonal to seasonal variability in a climate model Research activities in Earth system modelling. Working Group on Numerical Experimentation. WCRP Report No.12/2024. WMO, Geneva.](https://wgne.net/bluebook/)
 1.	Ankur Srivastava, Suryachandra A. Rao and Subimal Ghosh (2023). [Improving the subseasonal variability of the Indian summer monsoon in a climate model. International Journal of Climatology.](https://doi.org/10.1002/joc.8142)
 2.	Ankur Srivastava, Suryachandra A. Rao and Subimal Ghosh (2023). [Bay of Bengal upper-ocean stratification and the sub-seasonal variability in convection: Role of rivers in a coupled ocean-atmosphere model. Special issue of Mausam, 74, 2 (April, 2023), Fifth Volume of the book series, The Global Monsoon System.](https://community.wmo.int/en/news/special-issue-imds-journal-mausam-proceedings-7th-international-workshop-monsoons-iwm-7)
 3.  Ankur Srivastava, Suryachandra A. Rao and Subimal Ghosh (2022). [Impact of riverine freshwater on Indian Summer Monsoon: Coupling a runoff routing model to a global seasonal forecast model. Frontiers in Climate.](https://www.frontiersin.org/articles/10.3389/fclim.2022.902586/full)
@@ -16,7 +18,6 @@ permalink: /publications/
 
 ## Co-authored publications:
 
-5. Ankur Srivastava, Suryachandra A. Rao, Subimal Ghosh (2024). [Impact of river freshwater on subseasonal to seasonal variability in a climate model Research activities in Earth system modelling. Working Group on Numerical Experimentation. WCRP Report No.12/2024. WMO, Geneva.](https://wgne.net/bluebook/)
 2.	Maheswar Pradhan, Ankur Srivastava, Suryachandra A. Rao (2024). [Soil Moisture Feedback over Wet vs. Arid Regions of India”. Working Group on Numerical Experimentation. WCRP Report No.12/2024. WMO, Geneva.](https://wgne.net/bluebook/)
 3.	Ashish Alone, Ankur Srivastava, Maheswar Pradhan (2024). [Enhancing Extreme Rainfall Forecasting Through Machine Learning Techniques”. Working Group on Numerical Experimentation. WCRP Report No.12/2024. WMO, Geneva.](https://wgne.net/bluebook/)
 5. Bhowmik, M., Hazra, A., Srivastava, A. et al. [Improved Indian Summer Monsoon rainfall simulation: the significance of reassessing the autoconversion parameterization in coupled climate model.](https://doi.org/10.1007/s00382-024-07243-w) Climate Dynamics (2024).
