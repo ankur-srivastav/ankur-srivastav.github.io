@@ -2,23 +2,23 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Ankur Srivastava
+Ankur Srivastava
+Weather & Climate Scientist
 
 Show Contacts
 
 Email
-richard@example.com
+ankur@tropmet.res.in
 
 Phone
-+1 (213) 352-2795
++91 (20) 2590-4457
 
 Birthday
 June 23, 1982
 
 Location
-Sacramento, California, USA
+Pune, Maharashtra, India
 
 # navbar
 
@@ -32,10 +32,7 @@ Contact
 
 About me
 
-I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
-
-My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
-
+I am a scientist at the Indian Institute of Tropical Meteorology, and I am an oceanographer, meteorologist, and engineer. I earned my Ph.D. in Climate Studies from the Indian Institute of Technology, Bombay. My research interests include Monsoons, their different modes of variability, Monsoon teleconnections, Predictability, Coupled ocean-atmosphere modeling, and Seasonal Prediction. During my Ph.D., I worked on the impact of rivers on the monsoon. Additionally, I am interested in High-Performance Computing and Big Data. Interested in collaborating on a common research problem? Please drop me an email.
 
 ## service
 
