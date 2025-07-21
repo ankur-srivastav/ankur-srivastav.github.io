@@ -16,7 +16,7 @@ permalink: /publications/
 6.	Ankur Srivastava, Rao, Suryachandra A., Rao, D. Nagarjuna; George, G., Pradhan, M. (2017). [Structure, Characteristics and Simulation of Monsoon low-pressure systems in CFSv2 coupled model. Journal of Geophysical Research: Oceans](https://doi.org/10.1002/2016JC012322)
 7.	Ankur Srivastava, M. Pradhan, G. George, A. Dhakate, K. Salunke, and S. A. Rao (2015), [A Research Report on the 2015 Southwest Monsoon, pp. 58–62, Indian Inst. of Trop. Meteorol., Pune, India.](http://www.tropmet.res.in/~lip/Publication/RR-pdf/RR-185.pdf)
 
-## Co-authored publications:
+## Co-authored publication:
 
 2.	Maheswar Pradhan, Ankur Srivastava, Suryachandra A. Rao (2024). [Soil Moisture Feedback over Wet vs. Arid Regions of India”. Working Group on Numerical Experimentation. WCRP Report No.12/2024. WMO, Geneva.](https://wgne.net/bluebook/)
 3.	Ashish Alone, Ankur Srivastava, Maheswar Pradhan (2024). [Enhancing Extreme Rainfall Forecasting Through Machine Learning Techniques”. Working Group on Numerical Experimentation. WCRP Report No.12/2024. WMO, Geneva.](https://wgne.net/bluebook/)
