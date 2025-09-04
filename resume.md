@@ -135,6 +135,9 @@ Monsoon discussion forums are organized in IITM every year during the boreal sum
 Due to COVID some of these talks were online, benefitting audience outside of IITM. Some of these talks are available from the [IITM YouTube Channel](https://www.youtube.com/@iitmpune6704).
 
 ## Talks in workshops/ conferences
+**The Role of Terrestrial Rivers in Modulating Upper Ocean Stratification: Processes and Their Impact on Prediction Skill in Coupled Models**, the CLIVAR Climate Dynamics Panel 5th Annual workshop, 24-27 February 2025, the Mantra Lorne, Melbourne, Australia.
+
+**Seasonal forecasts of Marine Heat Waves**, OSICON-2025, 5-7 February 2025 at CSIR-NIO, Goa, India.
 
 **Improving the Subseasonal Variability of the Indian Summer Monsoon in a Climate Model**, [21st Annual Meeting of the Asia Oceania Geosciences Society (AOGS2024)](https://www.asiaoceania.org/aogs2024/public.asp?page=home.asp), 23-28 June 2024 at Pyeongchang, Gangwon-do, South Korea.
 
