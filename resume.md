@@ -50,6 +50,10 @@ Monsoon Mission, Indian Institute of Tropical Meteorology, Pune, India<br>
 
 **Member, Model Evaluation subgroup, Fresh Eyes on CMIP** (August 2023 – present), CMIP Panel and Working Group on Coupled Models (WGCM) Infrastructure Panel (WIP).
 
+**Member, GEP Contact Group for Weather and Climate Extremes**
+
+[**Member,  IIOE-2 Early Career Scientists Network (ECSN)**](https://iioe-2.incois.gov.in/ecsn/index.html)
+
 **Scientist C**, 2017-2020 *(4 years)*<br>
 Monsoon Mission, Indian Institute of Tropical Meteorology, Pune, India<br>
 
