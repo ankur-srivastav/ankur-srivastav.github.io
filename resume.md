@@ -48,6 +48,8 @@ Monsoon Mission, Indian Institute of Tropical Meteorology, Pune, India<br>
 
 [**Member, Working Group on Numerical Experimentation**](https://wgne.net/) panel (August 2024 – present), Earth System Modelling and Observations, core project of the World Climate Research Programme (WCRP).
 
+[**Member, Early Career Researchers' (ECR) Hub for Earth Sciences**](https://ecrhub.github.io/), Ministry of Earth Sciences
+
 **Member, Model Evaluation subgroup, Fresh Eyes on CMIP** (August 2023 – present), CMIP Panel and Working Group on Coupled Models (WGCM) Infrastructure Panel (WIP).
 
 **Member, GEP Contact Group for Weather and Climate Extremes**
